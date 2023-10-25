@@ -1,0 +1,8 @@
+Run l'installer python
+
+$env:Path += ";C:\Users\<user>\AppData\Local\Programs\Python\Python311\Scripts"
+
+pip install psutil
+pip install openpyxl
+pip install pysmb
+
